@@ -2,7 +2,7 @@
 
 题目列表：
 |ID|题目|备注(官方归类的topic)|链接|
-|----|----|
+|----|----|----|----|
 |55|Jump Game|贪心、数组|[链接](https://leetcode.com/problems/jump-game/)|
 |45|Jump Game II|贪心、数组|[链接](https://leetcode.com/problems/jump-game-ii/)|
 |122|Best Time to Buy and Sell Stock II|贪心、数组|[链接](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|
